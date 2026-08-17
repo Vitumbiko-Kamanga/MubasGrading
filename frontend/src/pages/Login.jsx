@@ -74,11 +74,7 @@ export default function Login() {
           </button>
         </form>
 
-        <div className="login-hint">
-          Demo accounts (password: <strong>password123</strong>)<br />
-          Admin: <strong>admin</strong> &middot; Lecturer: <strong>LEC001</strong> &middot; Student:{" "}
-          <strong>BIT/22/SS/012</strong>
-        </div>
+       
       </div>
     </div>
   );
